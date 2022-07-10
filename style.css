@@ -930,10 +930,11 @@ html {
   font-family: 'Bebas Neue', cursive;
 }
 
-h1{
+p{
   color: white;
   text-align: center;
   max-width: 80%;
+  width:80%;
   margin:30px auto 10px;
   font-size: 15px;
   z-index:9999;
