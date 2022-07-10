@@ -938,7 +938,7 @@ p{
   margin:30px auto -10px;
   font-size: 15px;
   z-index:9999;
-  box-sizing: border-box;
+position:relative;
 }
 
 
